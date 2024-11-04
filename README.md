@@ -119,3 +119,14 @@ SELECT SUM (CASE WHEN CANCELED = 0 THEN 1 ELSE 0 END) AS ActiveSubscriptions,
 SUM (CASE WHEN CANCELED = 1 THEN 1 ELSE 0 END) AS CanceledSubscriptions
 FROM [dbo].[LITA Capstone_Customer Data]
 GROUP BY Canceled``` 
+
+
+4. Power BI
+I created visuals, measures and new columns
+
+### Data Visualization
+- Microsoft Excel
+
+
+
+
