@@ -127,6 +127,22 @@ I created visuals, measures and new columns
 
 ### Data Visualization
 - Microsoft Excel
+  
+![Capstone Customer_1](https://github.com/user-attachments/assets/63cba3a2-1803-4d6f-b28e-3f12bfed3cad)
+
+
+![Capstone Customer_2](https://github.com/user-attachments/assets/3b123e4f-1090-4420-952c-17d1b9c96662)
+
+
+![Capstone Customer_3](https://github.com/user-attachments/assets/b3f1f2cc-40c2-40c1-9554-1e5491814d30)
+
+
+![Capstone Customer_4](https://github.com/user-attachments/assets/a829df00-b028-4d8e-9422-17c1978c9a71)
+
+-Power BI
+
+
+
 
 
 
