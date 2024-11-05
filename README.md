@@ -143,7 +143,6 @@ I created visuals, measures and new columns
 
 
 
-
 -Power BI
 ![Capstone Customer_5](https://github.com/user-attachments/assets/157d109c-9795-49f8-a8f6-39f5071832e3)
 
@@ -165,7 +164,7 @@ I created visuals, measures and new columns
 From the analysis carried out on the customer data, the Eastern region recorded 8488 customers, the North, 8433, the South,	8446 and the West,	8420, indicating that the East had the highest number of customers. In addition, after confirming the canceled subscriptions in each region, it was found that the East had 0 canceled subscriptions, the North,	5067 canceled subscriptions, the South, 5064 canceled subscriptions, and the West, 5044 canceled subscriptions.  The East aslo had the highest revenue generated (16958763), while the North had the lowest revenue generated (16817972). In considering the active subscriptions, the East recorded	8488 Active subscriptions, the North,	3366, the 
 South,	3382, and the West,	3376. This shows that the West still holds the highest number of active subscribers, while the North has the least. To boost the subscription levels in the North, the company may invest in more promotional activities, and incentives to boost patronage. 
 
-Of the three subscription types, the Basic subscription type had the highest patronage, generating the highest revenue 33776735 while the Standard subscription type had the lowest, generating the lowest revenue of 16864376. The Basic subscription type also had the highest number of active subscriptions. Indicating that the Basic subscription is the most patronized. This may be as a result of its affordability. The second most patronized subscription type was the   
+Of the three subscription types, the Basic subscription type had the highest patronage, generating the highest revenue 33776735 while the Standard subscription type had the lowest, generating the lowest revenue of 16864376. The Basic subscription type also had the highest number of active subscriptions. Indicating that the Basic subscription is the most patronized. This may be as a result of its affordability. The second most patronized subscription type was the Premium subscription, while the Standard subscription was the least patronized. It is important that the company focuses also on the Premium and Standard subscription types, to foster more Subscriptions. The company may also focus on advertising their services to the upper class citizens, to boost the number of premium subscribers.   
 
 
 
