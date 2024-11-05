@@ -129,15 +129,10 @@ I created visuals, measures and new columns
 - Microsoft Excel
   
 ![Capstone Customer_1](https://github.com/user-attachments/assets/63cba3a2-1803-4d6f-b28e-3f12bfed3cad)
+![Capstone Customer_2](https://github.com/user-attachments/assets/d0f980bb-2c81-47fc-8491-f7cfa807e871)
 
 
-![Capstone Customer_2](https://github.com/user-attachments/assets/3b123e4f-1090-4420-952c-17d1b9c96662)
 
-
-![Capstone Customer_3](https://github.com/user-attachments/assets/b3f1f2cc-40c2-40c1-9554-1e5491814d30)
-
-
-![Capstone Customer_4](https://github.com/user-attachments/assets/a829df00-b028-4d8e-9422-17c1978c9a71)
 
 -Power BI
 ![Capstone Customer_5](https://github.com/user-attachments/assets/157d109c-9795-49f8-a8f6-39f5071832e3)
@@ -149,13 +144,13 @@ I created visuals, measures and new columns
 ![Capstone Customer_7](https://github.com/user-attachments/assets/3e2f9536-7f75-4f97-86c3-bcd771c19a85)
 
 
-![Capstone Customer_8](https://github.com/user-attachments/assets/e5fb98c7-a5c9-4bc2-8119-e3609aa4caa3)
-
 
 ![Capstone Customer_9](https://github.com/user-attachments/assets/b344c304-283b-485b-80a2-95830e432388)
 
 
-![Capstone ![Capstone Customer_10](https://github.com/user-attachments/assets/66ebe432-ec77-4b7b-ad28-3076fb7a673c)
+![Capstone Customer_10](https://github.com/user-attachments/assets/96a57b81-98b7-4e0b-9cfa-f73621412ccb)
+
+
 
 ### Recommendations
 From the analysis carried out on the customer data, the Eastern region recorded 8488 customers, the North, 8433, the South,	8446 and the West,	8420. Indicating that the East had the highest number of customers. In addition, after confirming the canceled subscriptions in each region, it was found that the East had 0 canceled subscriptions, the North,	5067 canceled subscriptions, the South, 5064 canceled subscriptions, and the West, 5044 canceled subscriptions.  The East aslo had the highest revenue generated (16958763), while the North had the lowest revenue generated (16817972). In considering the active subscriptions, 
