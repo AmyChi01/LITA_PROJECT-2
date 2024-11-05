@@ -13,8 +13,6 @@ Here, I documented my final project while learning Data Analysis with the Incuba
 
 [Data Cleaning and Preparation](data-cleaning-and-preparation)
 
-[Project Structure](project-structure)
-
 [Exploratory Data Analysis](exploratory-data-analysis)
 
 [Data Analysis](data-analysis)
@@ -129,7 +127,19 @@ I created visuals, measures and new columns
 - Microsoft Excel
   
 ![Capstone Customer_1](https://github.com/user-attachments/assets/63cba3a2-1803-4d6f-b28e-3f12bfed3cad)
-![Capstone Customer_2](https://github.com/user-attachments/assets/d0f980bb-2c81-47fc-8491-f7cfa807e871)
+
+
+![Capstone Customer_2](https://github.com/user-attachments/assets/86d84cd8-6040-480f-af36-9b4dca9397dc)
+
+
+![Capstone Customer_3](https://github.com/user-attachments/assets/8df52bc5-98d0-4eda-936d-45cae885d73f)
+
+
+![Capstone Customer_4](https://github.com/user-attachments/assets/ea3336c3-7de4-4c5f-bd99-2fb1318bc1d6)
+
+
+![Capstone Customer_11](https://github.com/user-attachments/assets/407585ec-45e1-4ce3-96cf-207857d9c81c)
+
 
 
 
@@ -144,16 +154,16 @@ I created visuals, measures and new columns
 ![Capstone Customer_7](https://github.com/user-attachments/assets/3e2f9536-7f75-4f97-86c3-bcd771c19a85)
 
 
-
 ![Capstone Customer_9](https://github.com/user-attachments/assets/b344c304-283b-485b-80a2-95830e432388)
 
 
-![Capstone Customer_10](https://github.com/user-attachments/assets/96a57b81-98b7-4e0b-9cfa-f73621412ccb)
+![Capstone Customer_10](https://github.com/user-attachments/assets/3c516bfc-280e-4963-a0a0-72954284b615)
 
 
 
 ### Recommendations
-From the analysis carried out on the customer data, the Eastern region recorded 8488 customers, the North, 8433, the South,	8446 and the West,	8420. Indicating that the East had the highest number of customers. In addition, after confirming the canceled subscriptions in each region, it was found that the East had 0 canceled subscriptions, the North,	5067 canceled subscriptions, the South, 5064 canceled subscriptions, and the West, 5044 canceled subscriptions.  The East aslo had the highest revenue generated (16958763), while the North had the lowest revenue generated (16817972). In considering the active subscriptions, 
+From the analysis carried out on the customer data, the Eastern region recorded 8488 customers, the North, 8433, the South,	8446 and the West,	8420, indicating that the East had the highest number of customers. In addition, after confirming the canceled subscriptions in each region, it was found that the East had 0 canceled subscriptions, the North,	5067 canceled subscriptions, the South, 5064 canceled subscriptions, and the West, 5044 canceled subscriptions.  The East aslo had the highest revenue generated (16958763), while the North had the lowest revenue generated (16817972). In considering the active subscriptions, the East recorded	8488 Active subscriptions, the North,	3366, the 
+South,	3382, and the West,	3376. This shows that the West still holds the highest number of active subscribers, while the North has the least. To boost the subscription levels in the North, the company may invest in more promotional activities, and incentives to boost patronage. 
 
 Of the three subscription types, the Basic subscription type had the highest patronage, generating the highest revenue 33776735 while the Standard subscription type had the lowest, generating the lowest revenue of 16864376. The Basic subscription type also had the highest number of active subscriptions. Indicating that the Basic subscription is the most patronized. This may be as a result of its affordability. The second most patronized subscription type was the   
 
